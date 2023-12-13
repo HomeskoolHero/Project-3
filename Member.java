@@ -5,7 +5,7 @@ import java.lang.Math;
 
 /**
  *
- * @author clarencegrimaldo
+ * 
  */
 public class Member {
     private String memberName = null;
