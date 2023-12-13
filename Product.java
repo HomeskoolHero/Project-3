@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author clarencegrimaldo
+ * 
  */
 public class Product {
     private String productName = null;
